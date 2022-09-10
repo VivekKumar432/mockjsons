@@ -1,42 +1,45 @@
-{ "status":"ok", "count": 5,
-  "courses": [
-    {
-      "courseId": "56dd40a0-e0fc-4731-8422-55353067cbed",
-      "categoryId": "81b102f0-211a-4f7e-8dbc-bb13893f460b",
-      "trainer": {
-
-        "fullName": "Ravikant Tyagi",
-        "about": "Good",
-        "developmentExperience": "8+ years",
-        "photo": "https://skillrisers-lms.s3.ap-south-1.amazonaws.com/pic_1.png",
-        "trainingExperience": "8+ years",
-        "awardsOrAchivements": "Tons of",
-        "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
-        "biography": "<p>Hello everyone, I am Ravikant ical knowledge.</p>\n"
-      },
-      
-      "objectives": [
-        "Learn Deep Learning using Python from Scratch",
-        "100% practical learning",
-        "Learn Tensorflow with practical implementation",
-        "Build 5 case studies with images and text datasets"
-      ],
-      "targetAudience": [
-        "Anyone with basic knowledge of Python and Machine Learning",
-        "Students, Developers or Faculty members who wants to get started in Deep Learning from zero level"
-      ],
-      "level": 0,
-      "locale": "",
-      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/05/FLUTTER.png",
-      "originalPrice": "5500",
-      "costPrice": 599,
-      "totalNumChapters": 155,
-      "createdAt": "2022-09-01T02:03:56.292Z",
-      "lastUpdated": "2022-09-08T14:16:18.158Z",
-      "isFree": false,
-      "promoAsset": null,
-      "isPublished": true
-    },
-   
-  ]
+{
+	"course": {
+		"courseId": "56dd40a0-e0fc-4731-8422-55353067cbed",
+		"categoryId": "81b102f0-211a-4f7e-8dbc-bb13893f460b",
+		"trainer": {
+			"fullName": "Ravikant Tyagi",
+			"about": "Good",
+			"developmentExperience": "8+ years",
+			"photo": "https://brain-mentors.com/wp-content/uploads/2020/11/ios.jpg",
+			"trainingExperience": "8+ years",
+			"awardsOrAchivements": "Tons of",
+			"headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+			"biography": "<p>Hello everyone, I ar and trainer. I have more than 100 weloper with 100% practical knowledge.</p>\n"
+		},
+		"title": "Supervised Deep Learning with ANN, CNN & RNN",
+		"slug": "3461228-supervised-deep-learning-with-ann-cnn-rnn",
+		"subTitle": "Learn Deep Learning from scratch using Python and implement 5 Case Studies",
+		"deion": "<p>Welcome to the course of supervised deep learning from s>RNN Case Study</strong></p>\n<p></p>\n",
+		"prerequisites": [
+			"Basics of Python Programming",
+			"Little bit of Machine Learning"
+		],
+		"objectives": [
+			"Learn Deep Learning using Python from Scratch",
+			"100% practical learning",
+			"Learn Tensorflow with practical implementation",
+			"Build 5 case studies with images and text datasets"
+		],
+		"targetAudience": [
+			"Anyone with basic knowledge of Python and Machine Learning",
+			"Students, Developers or Faculty members who wants to get started in Deep Learning from zero level"
+		],
+		"level": 0,
+		"locale": "",
+		"courseImage": "https://brain-mentors.com/wp-content/uploads/2020/11/ios.jpg",
+		"originalPrice": "5500",
+		"costPrice": 599,
+		"totalNumChapters": 155,
+		"createdAt": "2022-09-01T02:03:56.292Z",
+		"lastUpdated": "2022-09-08T14:16:18.158Z",
+		"isFree": false,
+		"promoAsset": null,
+		"isPublished": true
+	}
 }
